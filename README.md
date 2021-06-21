@@ -5,7 +5,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/daz-wallace?style=social) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Daz_Wallace?style=social)
 
-[Daz Wallace Blog](https://dazwallace.wordpress.com)
+- [Daz Wallace Blog](https://dazwallace.wordpress.com)
 
 <!--
 **Daz-wallace/Daz-wallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
